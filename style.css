@@ -300,7 +300,7 @@ a:hover {
     font-weight: 600;
     line-height: 44px;
 }
-img {max-width: 100%; max-height: 100%;}
+img {max-width: 100%; max-height: auto;}
 .navbar-brand img {
     max-height: 200px;
     margin: 0 5px 0 0;
