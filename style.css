@@ -651,9 +651,9 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
-
+/* black a la place  du gris*/
 .container {
     max-width: 1000px;
 }
@@ -675,9 +675,9 @@ a {
     max-width: 520px;
     margin: auto auto auto auto;
 }
-
+/*remplacer 11 px par 16px pour ameliorer  le contraste */
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -689,7 +689,7 @@ p {
     font-size: 20px;
     font-family: "Open Sans";
 }
-/*changement dee cleur pour le contraste */
+/*changement de coleur pour le contraste */
 .cta-hero {
     margin-top: 22px;
     color: black !important;
