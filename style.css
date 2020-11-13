@@ -769,9 +769,9 @@ h4 {
 .bgc-dark-slate-blue {
     background-color: #364577;
 }
-
+/*changement BCG orange  */
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #6cb2f3;
 }
 /*changement dee cleur pour le contraste */
 .tc-white {
@@ -809,9 +809,9 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
+/*.bg-dots-bg {
     background-image: url("img/dots-bg.jpg");
-}
+}*/
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.jpg");
