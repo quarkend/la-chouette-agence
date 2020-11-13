@@ -1,0 +1,10 @@
+# Groupe 1
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Groupe 2
+User-agent: *
+Allow: /
+
+
+https://quarkend.github.io/la-chouette-agence\img\sitemap.xml
