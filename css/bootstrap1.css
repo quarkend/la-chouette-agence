@@ -71,6 +71,10 @@ input[type=submit] {
     -moz-box-sizing: border-box;
     box-sizing: border-box
 }
+a:active,
+a:hover {
+    outline: 0
+}
 
 html {
     font-size: 10px;
