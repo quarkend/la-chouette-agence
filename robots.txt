@@ -7,4 +7,4 @@ User-agent: *
 Allow: /
 
 
-https://quarkend.github.io/la-chouette-agence\sitemap.xml
+https://quarkend.github.io/la-chouette-agence/img/sitemap.xml
