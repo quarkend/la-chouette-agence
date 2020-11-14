@@ -767,17 +767,17 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #e4c1aa;
 }
 /*changement BCG orange  */
 .bgc-atomic-tangerine {
     background-color:#F3976C;
 }
-/*changement dee cleur pour le contraste */
+/*changement dee couleur pour le contraste */
 .tc-white {
-    color: white!important;
+    color: rgb(255, 255, 255)!important;
 }
-/*changement dee cleur pour le contraste */
+/*changement dee couleur pour le contraste */
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black !important;
