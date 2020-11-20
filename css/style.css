@@ -460,13 +460,13 @@ h4 {
   border-color: #364577 !important;
 }
 .bg-lines-h2-bg {
-  background-image: url(img/lines-h2-bg.jpg);
+  background-image: url(../img/lines-h2-bg.jpg);
 }
 .bg-banniere {
-  background-image: url(img/la-chouette-agence-banniere.jpg);
+  background-image: url(../img/la-chouette-agence-banniere.jpg);
 }
 .bg-presentation {
-  background-image: url(img/image-de-presentation.jpg);
+  background-image: url(../img/image-de-presentation.jpg);
 }
 @media (max-width: 1024px) {
   .bloc {
