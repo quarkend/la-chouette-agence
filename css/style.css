@@ -164,11 +164,7 @@ img a:hover {
 }
 /*  color */
 #bloc-1-hero h1 {
-  font-size: 48px;
-  border: 2px solid rgb(153, 66, 51);
-  border-radius: 1em;
-  background-color: black;
-  
+  font-size: 48px; 
 }
 .navbar {
   margin-bottom: 0;
@@ -433,7 +429,7 @@ h4 {
   background-color: #f3976c;
 }
 .tc-white {
-  color: rgb(0, 0, 0) ;
+  color: #f3976c;
 }
 .btn-atomic-tangerine {
   background: #f3976c;
