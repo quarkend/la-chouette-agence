@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap:https://www.xml-sitemaps.com/download/quarkend.github.io-748894a52/sitemap.html?view=1
