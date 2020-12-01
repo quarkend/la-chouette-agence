@@ -396,7 +396,7 @@ a:hover {
   .nav-center.mini-nav .navbar-toggle {
       float: none;
       margin: 10px auto 0;
-  }
+  }*/
 }
 
 .nav > li > .dropdown a {
@@ -1036,8 +1036,8 @@ h4 {
   }
 }
 
-/*@media (max-width: 767px) {
+@media (max-width: 767px) {
   .bloc-mob-center-text {
       text-align: center;
   }
-}*/
+}
